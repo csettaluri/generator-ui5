@@ -20,7 +20,7 @@ $> yo easy-ui5 project
 
      _-----_
     |       |    ╭──────────────────────────╮
-    |--(o)--|    │  Welcome to the easy-ui5 │
+    |--(o)--|    │   csettaluris easy-ui5   │
    `---------´   │        generator!        │
     ( _´U`_ )    ╰──────────────────────────╯
     /___A___\   /
@@ -42,7 +42,7 @@ $> npm i -g yo
 $> yo ./generator-ui5-project
 
      _-----_     ╭──────────────────────────╮
-    |       |    │      Welcome to the      │
+    |       |    │  Welcome to csettaluris │
     |--(o)--|    │     easy-ui5-project     │
    `---------´   │        generator!        │
     ( _´U`_ )    ╰──────────────────────────╯
